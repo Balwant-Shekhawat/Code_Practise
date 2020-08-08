@@ -5,7 +5,6 @@
 # Space Complexity : O(N) as we used recursion call stack
 # Time Complexity : O(N)
 
-
 maxDiameter = 1
 
 def height(node):
